@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, mActivity!</string>
+    <string name="app_name">security</string>
+    <string name="text_tip">输入信息接收号码</string>
+    <string name="ok_button">确定</string>
+    <string name="cancel_button">取消</string>
+    <string name="info">特别提示</string>
+</resources>
